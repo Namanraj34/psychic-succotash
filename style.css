@@ -58,10 +58,7 @@ tr:hover{
 a{
     text-decoration: none;
 }
-.navbar-toggler-icon{
-background-color: black;
-border-radius: 50px;
-}
+
 
 @media (min-width:992px) {
     body{
@@ -165,4 +162,3 @@ i{
 .bottom{
     margin: 20px;
 }
-
