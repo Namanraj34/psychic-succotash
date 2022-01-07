@@ -1,0 +1,66 @@
+  /* animation effect */
+
+  .animatee-card{
+    position: relative;
+    animation-name: example;
+    animation-duration: 3s;
+}
+
+@keyframes example {
+    from {top: -200px;}
+    to {top: 0px;}
+  }
+
+.animatee-card1{
+    position: relative;
+    animation-name: example1;
+    animation-duration: 3s;
+}
+
+@keyframes example1 {
+    from {bottom: -200px;}
+    to {bottom: 0px;}
+  }
+
+.animatee-card2{
+    position: relative;
+    animation-name: example2;
+    animation-duration: 3s;
+}
+
+@keyframes example2 {
+    from {top: -200px;}
+    to {top: 0px;}
+}
+.animatee-card3{
+    position: relative;
+    animation-name: example3;
+    animation-duration: 3s;
+}
+
+@keyframes example3 {
+    from {bottom: -200px;}
+    to {bottom: 0px;}
+}
+
+.animatt-card{
+    position: relative;
+    animation-name: example4;
+    animation-duration: 5s;
+}
+
+@keyframes example4 {
+    from {left: -200px;}
+    to {left: 0px;}
+}
+
+.animatted-card1{
+    position: relative;
+    animation-name: example5;
+    animation-duration: 5s;
+}
+
+@keyframes example5 {
+    from {right: -200px;}
+    to {right: 0px;}
+}
